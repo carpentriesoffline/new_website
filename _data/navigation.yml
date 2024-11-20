@@ -1,0 +1,17 @@
+- name: About
+  link: /about/
+- name: Blog
+  link: /blog/
+- name: Contact Us
+  link: /contact/
+- name: Resources
+  link: /resources/
+- name: Projects
+  link: /projects/
+  dropdown:
+    - name: RPi Image
+      link: /rpiimage/
+    - name: FlashDrive
+      link: /flashdrive/
+    - name: mini HPC
+      link: /minihpc/
