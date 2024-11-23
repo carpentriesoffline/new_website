@@ -14,4 +14,4 @@ hero_image: assets/img/OFFLINE-passepartout.svg
 hero_height: is-medium
 ---
 
-<img src="/assets/img/OFFLINE.svg"/>
+<img src="assets/img/OFFLINE.svg"/>
